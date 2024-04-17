@@ -6,7 +6,8 @@ The goal of this project is to recreate an existing data analytics project on Ub
 
 ## Architecture 
 
-<img src="architecture.jpg">
+![Example Image](uber-project-architecture.PNG)
+
 
 ## Technology Used
 - Programming Language - Python
@@ -28,6 +29,5 @@ I used a part of this dataset :
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img src="data_model.jpeg">
-
+![Example Image](data_model.jpeg)
 
